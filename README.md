@@ -2,4 +2,4 @@
 
 -An example of how Lifting State Up Events in React.
 
-![gif](https://raw.githubusercontent.com/yhekim/Forms_Events/main/Forms_Events.gif)
+![gif](https://raw.githubusercontent.com/yhekim/Lifting_State_Up/main/lifting%20state%20up.gif)
